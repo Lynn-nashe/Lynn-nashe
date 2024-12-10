@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bkIjv2eVxkW0g4LzNeB7-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="420" width="280" height="240" as="geometry" />
+          <mxGeometry x="630" y="405" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="bkIjv2eVxkW0g4LzNeB7-12" value="Meeting Room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bkIjv2eVxkW0g4LzNeB7-10">
           <mxGeometry x="20" y="10" width="190" height="30" as="geometry" />
@@ -53,10 +53,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bkIjv2eVxkW0g4LzNeB7-13" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry y="800" width="410" height="290" as="geometry" />
+          <mxGeometry y="800" width="310" height="290" as="geometry" />
         </mxCell>
         <mxCell id="bkIjv2eVxkW0g4LzNeB7-15" value="Main Auditorium" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bkIjv2eVxkW0g4LzNeB7-13">
           <mxGeometry x="50" y="10" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bkIjv2eVxkW0g4LzNeB7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="830" as="sourcePoint" />
+            <mxPoint x="432.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bkIjv2eVxkW0g4LzNeB7-16" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="830" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bkIjv2eVxkW0g4LzNeB7-17" value="Box Office" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bkIjv2eVxkW0g4LzNeB7-16">
+          <mxGeometry x="20" y="10" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
