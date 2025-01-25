@@ -210,15 +210,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-70" value="15m width" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="291.5" y="-200" width="60" height="30" as="geometry" />
+          <mxGeometry x="294" y="-200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-72" value="5m (height)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bc-wI9avei_sFSwvRVbC-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.99;exitY=0.874;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bc-wI9avei_sFSwvRVbC-1">
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="260" as="sourcePoint" />
-            <mxPoint x="420" y="250" as="targetPoint" />
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-78" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.amplifier;" vertex="1" parent="1">
@@ -268,9 +268,21 @@
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-93" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="260" as="sourcePoint" />
-            <mxPoint x="421" y="42.5" as="targetPoint" />
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="400" y="44" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="250" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-95" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.99;exitY=0.874;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bc-wI9avei_sFSwvRVbC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="253" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-94" value="8.7m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="220" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
