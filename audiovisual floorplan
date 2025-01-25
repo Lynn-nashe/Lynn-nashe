@@ -155,10 +155,10 @@
           <mxGeometry x="200" y="-70" width="41" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-128.png;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="760" y="268.44" width="63.12" height="63.12" as="geometry" />
+          <mxGeometry x="760" y="183.12" width="63.12" height="63.12" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-128.png;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="764" y="120" width="63.12" height="63.12" as="geometry" />
+          <mxGeometry x="766.88" y="67.5" width="63.12" height="63.12" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-128.png;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="760" y="-24.060000000000006" width="63.12" height="63.12" as="geometry" />
@@ -176,14 +176,14 @@
           <mxGeometry x="516.88" y="-270" width="53.12" height="53.12" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-128.png;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="516.88" y="266.88" width="53.12" height="53.12" as="geometry" />
+          <mxGeometry x="673.12" y="273.44" width="53.12" height="53.12" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-128.png;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="630" y="266.88" width="53.12" height="53.12" as="geometry" />
+          <mxGeometry x="751.88" y="266.88" width="53.12" height="53.12" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-66" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="Bc-wI9avei_sFSwvRVbC-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40" y="18" as="sourcePoint" />
+            <mxPoint x="10" y="18" as="sourcePoint" />
             <mxPoint x="130" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="18" />
@@ -192,16 +192,14 @@
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40" y="25" as="sourcePoint" />
-            <mxPoint x="-40" y="25" as="targetPoint" />
+            <mxPoint x="10" y="25" as="sourcePoint" />
+            <mxPoint x="10" y="25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="105" />
-              <mxPoint x="-40" y="-55" />
+              <mxPoint x="10" y="105" />
+              <mxPoint x="10" y="20" />
+              <mxPoint x="10" y="-40" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Bc-wI9avei_sFSwvRVbC-68" value="20m (max distance)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-14" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.503;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.502;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bc-wI9avei_sFSwvRVbC-1" target="Bc-wI9avei_sFSwvRVbC-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -222,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-78" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.amplifier;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="-22.5" width="40" height="60" as="geometry" />
+          <mxGeometry x="-130" y="-14" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-79" value="source/amplifier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-130" y="-55.62" width="60" height="30" as="geometry" />
@@ -281,8 +279,55 @@
             <mxPoint x="400" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bc-wI9avei_sFSwvRVbC-94" value="8.7m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="424" y="220" width="80" height="30" as="geometry" />
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="-410" as="sourcePoint" />
+            <mxPoint x="820" y="-410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-97" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.001;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bc-wI9avei_sFSwvRVbC-1" target="Bc-wI9avei_sFSwvRVbC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="-90" as="sourcePoint" />
+            <mxPoint x="70" y="-140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="-410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-98" value="" style="endArrow=none;html=1;rounded=0;exitX=0.994;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bc-wI9avei_sFSwvRVbC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-90" as="sourcePoint" />
+            <mxPoint x="824" y="-410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-99" value="20m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-440" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="-280" as="sourcePoint" />
+            <mxPoint x="960" y="-280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-101" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Bc-wI9avei_sFSwvRVbC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="-90" as="sourcePoint" />
+            <mxPoint x="960" y="-270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="960" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-102" value="15m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-103" value="8.7m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-14" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
