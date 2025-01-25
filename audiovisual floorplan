@@ -254,8 +254,8 @@
         <mxCell id="Bc-wI9avei_sFSwvRVbC-87" value="WINDOW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="-268.12" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bc-wI9avei_sFSwvRVbC-88" value="PROJECTOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="630" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-88" value="PROJECTOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="391.5" y="-25.619999999999997" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bc-wI9avei_sFSwvRVbC-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -268,6 +268,9 @@
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-91" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="322.5" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-92" value="SCREEN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="623.12" y="37.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
