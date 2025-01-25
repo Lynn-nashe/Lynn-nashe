@@ -32,7 +32,7 @@
           <mxGeometry x="389" y="-50" width="25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-11" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector_screen;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="529.7" y="-40.94" width="293.12" height="67.5" as="geometry" />
+          <mxGeometry x="500.00000000000006" y="-30" width="293.12" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-14" value="Speaker" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="656.26" y="-210" width="40" height="50" as="geometry" />
