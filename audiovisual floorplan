@@ -230,6 +230,12 @@
         <mxCell id="Bc-wI9avei_sFSwvRVbC-77" value="5m(height)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="230" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-78" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.amplifier;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-22.5" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-79" value="source/amplifier" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-55.62" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
