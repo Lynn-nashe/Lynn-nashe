@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.5">
   <diagram name="Page-1" id="MI4UAKzxUOZ_eJFicB0m">
-    <mxGraphModel dx="2651" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry x="80" y="-130" width="41" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="351.5" y="-40" width="100" height="65" as="geometry" />
+          <mxGeometry x="341.87" y="-41.13" width="108.5" height="75.75" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="389" y="-40" width="25" height="56" as="geometry" />
+          <mxGeometry x="414" y="-47.18" width="25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-11" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector_screen;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="590" y="-22.5" width="273.12" height="67.5" as="geometry" />
@@ -210,9 +210,6 @@
         <mxCell id="Bc-wI9avei_sFSwvRVbC-70" value="15m width" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="294" y="-200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bc-wI9avei_sFSwvRVbC-72" value="5m (height)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="260" as="sourcePoint" />
@@ -247,7 +244,7 @@
           <mxGeometry x="30" y="-268.12" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-88" value="PROJECTOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="391.5" y="-25.619999999999997" width="60" height="30" as="geometry" />
+          <mxGeometry x="421.5" y="-22.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bc-wI9avei_sFSwvRVbC-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -338,6 +335,12 @@
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-107" value="SCREEN AREA 6.1m^2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="654.68" y="-47.18" width="166.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-108" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.laptop;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="364" y="-11.780000000000001" width="50" height="38.57" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-109" value="Laptop source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="-47.18" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
