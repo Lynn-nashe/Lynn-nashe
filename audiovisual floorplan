@@ -251,12 +251,9 @@
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Bc-wI9avei_sFSwvRVbC-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="77" as="sourcePoint" />
-            <mxPoint x="650" y="60" as="targetPoint" />
+            <mxPoint x="540" y="70" as="sourcePoint" />
+            <mxPoint x="673.1199999999999" y="85.17999999999975" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Bc-wI9avei_sFSwvRVbC-90" value="5M(FROM SCREEN TO FIRST ROW)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="50" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-91" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="322.5" width="160" height="85" as="geometry" />
@@ -328,6 +325,16 @@
         </mxCell>
         <mxCell id="Bc-wI9avei_sFSwvRVbC-104" value="18.7m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="-14" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-106" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="77" as="sourcePoint" />
+            <mxPoint x="538" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc-wI9avei_sFSwvRVbC-105" value="4,95m projector distance from screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="37.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
